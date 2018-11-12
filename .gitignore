@@ -1,0 +1,4 @@
+#Ignore Python notebook checkpoints
+Pandas/.ipynb_checkpoints/*
+GeoPandas/.ipynb_checkpoints/*
+netCDF_xarray/.ipynb_checkpoints/*
